@@ -50,6 +50,7 @@ python app.py
 ```
 
 + You can check the demo from here : **https://huggingface.co/spaces/ayoubkirouane/QA-DistilBERT-base-squad**
+  
 ![Screenshot at 2023-09-25 17-59-39](https://github.com/Kirouane-Ayoub/QA-DistilBERT-app/assets/99510125/273b071d-ade6-4dea-9eed-cb8bd51f0eec)
 
 + Created By **Kirouane AYoub** 
