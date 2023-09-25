@@ -1,7 +1,7 @@
 # QA-DistilBERT-app
 
 ## Overview
-+ **Model Name**: QA-DistilBERT-base-squad
++ **Model Name**: QA-DistilBERT-base-squad [**https://huggingface.co/ayoubkirouane/QA-DistilBERT-base-squad**]
 + **Task**: Question Answering (QA)
 + **Dataset**: squad_v2
 + **Model Type**: DistilBERT-based model
